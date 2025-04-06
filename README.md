@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png.png" alt="PirryPlayz Banner" width="100%" />
+  <img src="./banner.png.png" alt="PirryPlayz Banner" width="60%" />
 </p>
 
 <p align="center">
