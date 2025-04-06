@@ -1,10 +1,10 @@
 <table>
   <tr>
-    <td width="40%" align="center">
+    <td width="40%" align="left">
   <img src="./banner.png.png" alt="PirryPlayz Banner" width="60%" />
  </td>
 
- <td width="60%" align="center">
+ <td width="60%" align="right">
   <img src="./profilepic.png.png" alt="PirryPlayz Profile" width="150" style="border-radius:50%;" />
  <br/>
 
