@@ -1,10 +1,12 @@
-<p align="center">
-  <img src="./banner.png.png" alt="PirryPlayz Banner" width="60%" />
-</p>
+<table>
+  <tr>
+    <td width="60%">
+  <img src="./banner.png.png" alt="PirryPlayz Banner" width="100%" />
+ </td>
 
-<p align="center">
+ <td width="40%" align="center">
   <img src="./profilepic.png.png" alt="PirryPlayz Profile" width="150" style="border-radius:50%;" />
-</p>
+ <br/>
 
 <p align="center">🚀 Developer | 🎮 Gamer | 🧠 Problem Solver</p>
 
