@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td width="60%">
+    <td width="60%" align="center">
   <img src="./banner.png.png" alt="PirryPlayz Banner" width="100%" />
  </td>
 
