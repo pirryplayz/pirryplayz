@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./banner.png" alt="PirryPlayz Banner" width="100%" />
+  <img src="./banner.png.png" alt="PirryPlayz Banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./profilepic.png" alt="PirryPlayz Profile" width="150" style="border-radius:50%;" />
+  <img src="./profilepic.png.png" alt="PirryPlayz Profile" width="150" style="border-radius:50%;" />
 </p>
 
 <p align="center">🚀 Developer | 🎮 Gamer | 🧠 Problem Solver</p>
