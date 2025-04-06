@@ -1,11 +1,12 @@
 <table>
   <tr>
     <td width="40%" align="center">
-  <img src="./banner.png.png" alt="PirryPlayz Banner" width="60%" />
+
  </td>
 
  <td width="60%" align="center">
-  <img src="./profilepic.png.png" alt="PirryPlayz Profile" width="150" style="border-radius:50%;" />
+  <img src="./profilepic.png.png" alt="PirryPlayz Profile" width="150" style="border-radius:50%;" /> 
+  <img src="./banner.png.png" alt="PirryPlayz Banner" width="60%" />
  <br/>
 
 <p align="center">🚀 Developer | 🎮 Gamer | 🧠 Problem Solver</p>
